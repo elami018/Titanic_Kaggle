@@ -10,9 +10,8 @@ This repository contains my solution for the Titanic: Machine Learning from Disa
 
 ## Contents
 
-- `notebooks/`: This directory contains Jupyter notebooks that walk through the data analysis, feature engineering, model selection, and evaluation steps of the solution.
-- `data/`: Here you can find the dataset files provided by Kaggle (train.csv, test.csv) and any additional processed data files.
-- `submissions/`: This is where you can find the CSV files containing the predictions for the test set. These files can be submitted to Kaggle for evaluation.
+- `data_analysis/`: This notebook walks through the data analysis
+- `titanic/`: This notebook walks through feature engineering, model selection, and evaluation steps of the solution.
 - `README.md`: You are reading it! This file provides an overview of the repository and its contents.
 
 ## Methodology
